@@ -18,7 +18,7 @@ def fourth_challenge
             {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
-   return capulet[:heroine][status] = "dead"
+   capulet[:heroine][status] = "dead"
 }
 
 
